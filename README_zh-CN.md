@@ -3,7 +3,7 @@
 基于 ACM 格式的北京邮电大学物联网工程实践课程 LaTeX 报告模板。
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-[![zh-CN](https://img.shields.io/badge/lang-zh--CN-green.svg)](README.zh-CN.md)
+[![zh-CN](https://img.shields.io/badge/lang-zh--CN-green.svg)](README_zh-CN.md)
 
 ---
 
